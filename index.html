@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lcat wiki</title>
+    <link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.css">
+    <link rel="stylesheet" href="../assets/libs/github-markdown.css">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <style type="text/css">
+        .markdown-body, .nav a {
+            font-family: "Segoe UI Light", "Segoe UI", "Microsoft Jhenghei", "Microsoft Yahei", arial, sans-serif;
+        }
+        .markdown-body ul, .markdown-body ol {
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+<div class="nav nav-collapse">
+    <ul>
+        <li><a href="#nodejs">nodejs</a></li>
+        <li><a href="#chrome-extensions">chrome extensions</a></li>
+        <li><a href="#sublime-text-plugin">sublime text plugin</a></li>
+    </ul>
+</div>
+<div class="main markdown-body"></div>
+<script type="text/javascript" src="../assets/libs/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="../assets/libs/marked.js"></script>
+
+<script type="text/javascript">
+    $.ajax({
+        url: './wiki.md'
+    })
+    .done(function(data) {
+
+        var md = marked(data);
+        $('.main').html(md);
+    })
+</script>
+</body>
+</html>
