@@ -1,4 +1,4 @@
-last change: 2015-05-07 13:45:00
+last change: 2015-07-09 22:47:00
 
 -------------
 
@@ -7,6 +7,7 @@ last change: 2015-05-07 13:45:00
 * [node稳定性的研究心得](http://www.cnblogs.com/rubylouvre/p/4442619.html) [异常捕获, 异常处理]
 * [cli app 更新提示组件](https://github.com/yeoman/update-notifier) [node 命令行程序更新提示] 
 * [图片分析和比较](https://github.com/Huddle/Resemble.js) [图片分析 图片diff] 
+* [【译】NodeJS错误处理最佳实践](http://code.oneapm.com/nodejs/2015/04/13/nodejs-errorhandling/)
 
 # chrome extensions
 
