@@ -1,4 +1,4 @@
-last change: 2015-07-09 22:47:00
+last change: 2015-05-078-06 09:20:00
 
 -------------
 
@@ -7,7 +7,6 @@ last change: 2015-07-09 22:47:00
 * [node稳定性的研究心得](http://www.cnblogs.com/rubylouvre/p/4442619.html) [异常捕获, 异常处理]
 * [cli app 更新提示组件](https://github.com/yeoman/update-notifier) [node 命令行程序更新提示] 
 * [图片分析和比较](https://github.com/Huddle/Resemble.js) [图片分析 图片diff] 
-* [【译】NodeJS错误处理最佳实践](http://code.oneapm.com/nodejs/2015/04/13/nodejs-errorhandling/)
 
 # chrome extensions
 
@@ -19,6 +18,18 @@ last change: 2015-07-09 22:47:00
 * [visual-event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim?utm_source=chrome-app-launcher-info-dialog) [查看dom事件]
 * [fehelper](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=chrome-app-launcher-info-dialog) [前端助手]
 
+# 安全
+
+*. [XSS 前端防火墙 —— 内联事件拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-1/)
+*. [XSS 前端防火墙 —— 可疑模块拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-2/)
+*. [XSS 前端防火墙 —— 无懈可击的钩子](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-3/)
+*. [XSS 前端防火墙 —— 天衣无缝的防护](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-4/)
+*. [XSS 前端防火墙 —— 整装待发](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-5/)
+*. [Web 前端攻防（2014版）](http://fex.baidu.com/blog/2014/06/web-sec-2014/)
+
+# web性能
+
+* [High Performance in the Critical Path](https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path) [web性能 slides]
 
 # sublime text plugin
 
