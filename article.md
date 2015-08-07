@@ -1,5 +1,7 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [react 入门slideshare](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html)
+
 * [对Tower网站浅显的性能分析](https://github.com/ccforward/cc/blob/master/Tower_Performance/README.md)
 > 根据 `webpagetest` 结果的性能优化分析
 
