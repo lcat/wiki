@@ -1,5 +1,7 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [合并 HTTP 请求是否真的有意义？](http://www.zhihu.com/question/34401250)
+
 * [react 入门slideshare](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html)
 
 * [对Tower网站浅显的性能分析](https://github.com/ccforward/cc/blob/master/Tower_Performance/README.md)
