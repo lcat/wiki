@@ -1,4 +1,4 @@
-last change: 2015-05-078-06 09:20:00
+last change: 2015-08-17 09:20:00
 
 -------------
 
@@ -7,6 +7,7 @@ last change: 2015-05-078-06 09:20:00
 * [node稳定性的研究心得](http://www.cnblogs.com/rubylouvre/p/4442619.html) [异常捕获, 异常处理]
 * [cli app 更新提示组件](https://github.com/yeoman/update-notifier) [node 命令行程序更新提示] 
 * [图片分析和比较](https://github.com/Huddle/Resemble.js) [图片分析 图片diff] 
+* [Mac, Windows, Linux通知](https://github.com/mikaelbr/node-notifier) [跨平台通知]
 
 # chrome extensions
 

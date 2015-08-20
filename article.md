@@ -1,5 +1,10 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [前端代码异常日志收集与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
+
+* [用Electron开发桌面应用](http://get.jobdeer.com/7870.get)
+> [英文原文地址](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658);  `Electron` 入门; 类 `node-webkit` 
+
 * [合并 HTTP 请求是否真的有意义？](http://www.zhihu.com/question/34401250)
 
 * [react 入门slideshare](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html)
