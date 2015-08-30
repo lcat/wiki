@@ -11,6 +11,7 @@ last change: 2015-08-17 09:20:00
 
 # chrome extensions
 
+* [github code tree](https://github.com/buunguyen/octotree) [github 代码树]
 * [github linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp?utm_source=chrome-app-launcher-info-dialog) [github require 链接]
 * [postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?utm_source=chrome-app-launcher-info-dialog) [REST web 客户端]
 * [react developer tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=chrome-app-launcher-info-dialog) [react 调试工具]

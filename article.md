@@ -1,5 +1,10 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [react flux example](http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/)
+
+* [前端工程-基础篇](https://github.com/fouber/blog/issues/10)
+> 前端农民工 大神的`前端工程`系列
+
 * [前端代码异常日志收集与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
 
 * [用Electron开发桌面应用](http://get.jobdeer.com/7870.get)
