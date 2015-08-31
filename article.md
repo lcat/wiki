@@ -1,6 +1,10 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
+> flux 入门
+
 * [react flux example](http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/)
+> flux 入门
 
 * [前端工程-基础篇](https://github.com/fouber/blog/issues/10)
 > 前端农民工 大神的`前端工程`系列
