@@ -1,5 +1,22 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [ios 看react native](http://blog.csdn.net/zhe13/article/details/48439967#0-tsina-1-99344-397232819ff9a47a7b7e80a40613cfe1)
+
+* [重拾CSS乐趣上](https://github.com/cssmagic/blog/issues/52)
+* [重拾CSS乐趣下](https://github.com/cssmagic/blog/issues/54)
+> css魔法 很赞的`css`分享
+
+* [css 模块](http://www.75team.com/archives/1049)
+
+* [美团react专场](http://www.w3ctech.com/event/53)
+> react ppt; Thinking in React; react.js and inline styles; React和Flux的组件定制化实践; React Native初探
+
+* [Angular Input格式化](http://greengerong.com/blog/2015/09/03/angular-inputge-shi-hua/)
+> angular 指令，input动态格式化
+
+* [道高一尺魔高一丈;互联网封锁是如何升级的](https://theinitium.com/article/20150904-mainland-greatfirewall/)
+> GFW科普好文
+
 * [React 和 Flux 创建一个记事本应用](http://zhuanlan.zhihu.com/FrontendMagazine/19934725)
 > flux 入门
 
