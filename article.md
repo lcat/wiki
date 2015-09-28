@@ -1,5 +1,17 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
+> nodejs 文件操作 建议
+
+* [Github Hacking](http://www.jianshu.com/p/d6b54f1d60f1)
+> github 上信息泄漏
+
+* [使用 JavaScript 截屏](http://www.barretlee.com/blog/2015/09/24/screenshot-with-javascript/)
+> 使用html2canvas截图，保存到coding
+
+* [NodeJS 应用仓库钓鱼](http://www.cnblogs.com/index-html/p/npm_package_phishing.html)
+> npm 钓鱼
+
 * [ios 看react native](http://blog.csdn.net/zhe13/article/details/48439967#0-tsina-1-99344-397232819ff9a47a7b7e80a40613cfe1)
 
 * [重拾CSS乐趣上](https://github.com/cssmagic/blog/issues/52)
