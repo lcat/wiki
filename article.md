@@ -1,5 +1,16 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [Social Authentication in Node.js With Passport](http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport)
+> nodejs passport auth
+
+* [How to Create a Node.js Cluster for Speeding Up Your Apps](http://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/)
+> nodejs cluster 集群
+
+* [关于Git和Github你不知道的十件事](http://segmentfault.com/a/1190000003830252)
+
+* [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
+> nodejs 调试
+
 * [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 > nodejs 文件操作 建议
 
