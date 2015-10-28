@@ -1,5 +1,10 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [HTTP/2 头部压缩技术介绍](https://imququ.com/post/header-compression-in-http2.html)
+> http 头部压缩，哈夫曼  
+
+* [React 组件之间如何交流](http://www.60sky.com/2015/09/03/2015-07-19-react-component-communicate/)
+
 * [Social Authentication in Node.js With Passport](http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport)
 > nodejs passport auth
 
