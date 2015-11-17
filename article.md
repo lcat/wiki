@@ -1,5 +1,8 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [Express在生产环境下的最佳实践 - 安全性](http://segmentfault.com/a/1190000003996618)
+> express 安全性相关
+
 * [HTTP/2 头部压缩技术介绍](https://imququ.com/post/header-compression-in-http2.html)
 > http 头部压缩，哈夫曼  
 
