@@ -1,5 +1,15 @@
 > 记录一些看过的好文章，方便检索。倒序
 
+* [网页色彩搭配表](http://tool.c7sky.com/webcolor/)
+
+* [打造node命令行](https://www.awesomes.cn/source/12)
+
+* [Angular的Controller嵌套和通讯](https://www.thebeet.cn/angularde-controllerqian-tao/)
+
+* [react 入门](https://stormpath.com/blog/build-a-react-app-with-user-authentication/)
+
+* [react mini book](http://blog.oyanglul.us/javascript/react-cookbook-mini.html)
+
 * [Express在生产环境下的最佳实践 - 安全性](http://segmentfault.com/a/1190000003996618)
 > express 安全性相关
 
